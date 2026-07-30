@@ -37,7 +37,7 @@
 <p align="center"> <img src="https://streak-stats.demolab.com?user=Ramana-Giri&theme=tokyonight&hide_border=true"/> </p>
 
 ## 🏆 LeetCode
-<p align="center"> <img src="https://leetcard.jacoblin.cool/ramana-giri?theme=dark&font=Noto%20Sans%20Kannada&ext=contest"/> </p>
+<p align="center"> <img src="https://leetcard.jacoblin.cool/ramana-giri?theme=catppuccinMocha&font=Baloo%20Da%202&ext=contest"/> </p>
 
 ## 📌 Featured Projects
 
