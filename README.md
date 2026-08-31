@@ -30,8 +30,8 @@
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ramana-Giri&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ramana-Giri&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=Ramana-Giri&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ramana-Giri&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center"> <img src="https://streak-stats.demolab.com?user=Ramana-Giri&theme=tokyonight&hide_border=true"/> </p>
